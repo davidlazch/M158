@@ -5,6 +5,7 @@ app = Flask(__name__)
 def hello():
     hello = "Hello, DevOps!\n"
     hello += "Hello, it's David!\n"
+    hello += "Hello, it's Lionel now !\n"
     return hello
 
 if __name__ == '__main__':
