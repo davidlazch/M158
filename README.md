@@ -2,12 +2,20 @@
 
 ## Prerequis
 
+Vous devez associer une clé SSH à votre profil GitHub.
+
+Pour plus d'informations, consultez ce [lien](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+
+La clé SSH doit être disponible sur la machine sur laquelle vous effectuez vos modifications !
+
+---
+
 Premierement on doit cloner la repo en local.
 
 Vous pouvez faire ca en untilisant la commande:
 
 ```sh
-$ git clone https://github.com/davidlazch/M158.git
+$ git clone git@github.com:davidlazch/M158.git
 ```
 
 Si vous avez déjà cloné le repo, c'est important a le mettre à jour pour être sûr que vous avez la dernière version en local.
