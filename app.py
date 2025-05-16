@@ -6,6 +6,7 @@ def hello():
     hello = "Hello, DevOps!\n"
     hello += "Hello, it's David!\n"
     hello += "Hello, it's Lionel now !\n"
+    hello += "Hello, it's a me, William !\n"
     return hello
 
 if __name__ == '__main__':
