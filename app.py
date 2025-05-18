@@ -8,6 +8,7 @@ def hello():
     hello += "Hello, it's Lionel now !\n"
     hello += "Hello, it's a me, William !\n"
     hello += "Hello, it's Aaron, Lets go !\n"
+    hello += "Hello, it's Lionel, for a third time !\n"
     return hello
 
 if __name__ == '__main__':
